@@ -1,8 +1,9 @@
-= Couchbase Java SDK 3.1
+= Couchbase Java SDK 3.2
 :page-type: landing-page
-:page-layout: landing-page-top-level-sdk
+:page-layout: landing-page-sdk
 :page-role: tiles
 :!sectids:
+// :page-layout: landing-page-top-level-sdk
 // :page-aliases: ROOT:dotjavanet-sdk.sdoc
 
 
@@ -37,7 +38,7 @@ MutationResult result = collection.mutateIn(
 [.column]
 ====== {empty}
 
-== Couchbase Java SDK 3.1
+== Couchbase Java SDK 3.2
 
 ++++
 <div class="card-row three-column-row">
